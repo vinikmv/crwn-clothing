@@ -1,6 +1,11 @@
 {
   "cSpell.ignoreWords": [
+    "devtools",
+    "extension",
     "firestore",
-    "persistor"
+    "middlewares",
+    "persistor",
+    "redux",
+    "redux devtools extension"
   ]
 }
